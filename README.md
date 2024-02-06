@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN STACK , flutter mobile app**
 
-- 📫 How to reach me **milkafasika0@gmail.com , https://www.linkedin.com/in/milka-fasika-2287a1283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuuvSE31PQHW6fwqWzBcDTQ%3D%3D**
+- 📫 How to reach me **milkafasika0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
